@@ -1,0 +1,6 @@
+{
+  "name": "Cantinho do Mini Chefe - Fast Food & Gestão",
+  "description": "Sistema completo de automação de pedidos, controle de estoque com ficha técnica e relatórios de vendas e desempenho para o fast food Cantinho do Mini Chefe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
